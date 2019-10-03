@@ -22,5 +22,7 @@
 <li>b.  10 bit, od 0 do 1024</li>
 <li>c.  12 bit, od 0 do 4096</li>
 
+<h4>Komentar</h4>
+<p>Razvojna ploščica deluje tako, da pošilja podatke stanja potenciometra preko ADC pina v spremenljivko, ki se nato izpiše v programu STM studio z zakasnitvijo 100ms. V STMstudio lahko spremljamo spremembe v živo.</p>
 
-Izdelal Nik Vogrinec in Voje Luka.
+<p>Izdelal Nik Vogrinec in Voje Luka.</p>
